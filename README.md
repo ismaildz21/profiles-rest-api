@@ -1,3 +1,3 @@
-# Profles REST API
+# Profiles REST API
 
 Profiles RES API course code.
